@@ -6,26 +6,12 @@ I'm a passionate student developer skilled in Python, C++, C, JavaScript, HTML/C
 
 **Tech Stack:**
 - **Languages:** Python, C++, C, JavaScript, HTML/CSS
-- **Frameworks & Tools:** Machine Learning
+- **Frameworks & Tools:** Machine Learning, React, Node.js, TensorFlow
 
 **Interests:**
 - AI, Web Development, Gaming
 
-Feel free to connect with me!
-- 📧 Email: [yashrajgupta188@gmail.com](mailto:yashrajgupta188@gmail.com)
-- 💼 LinkedIn: [Yashraj Gupta](https://www.linkedin.com/in/yash-raj-gupta001/)
-
-🌍 I'm based in Ghaziabad, India.
-
-[![GitHub Follow](https://img.shields.io/github/followers/Yashrajgpt?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/Yashrajgpt)
-
-### Skills
-<!-- Add skill icons here -->
-
-### Socials
-<!-- Add social icons here -->
-
-### Badges
+### 📈 My GitHub Stats
 <a href="http://www.github.com/Yashrajgpt">
   <img src="https://github-readme-stats.vercel.app/api?username=Yashrajgpt&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Yashrajgpt's GitHub stats" />
 </a>
@@ -36,5 +22,35 @@ Feel free to connect with me!
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Yashrajgpt&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 </a>
 <a href="https://github.com/Yashrajgpt" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrajgpt&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrajgpt&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
+
+### 🛠️ Skills
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" />
+  </a>
+</p>
+
+### 🌍 Connect with Me
+- 📧 [Email](mailto:yashrajgupta188@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yash-raj-gupta001/)
+
+### 🎮 Hobbies
+- Gaming
+- Exploring new tech trends
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yashrajgpt&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
